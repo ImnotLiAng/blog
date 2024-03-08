@@ -1,0 +1,17 @@
+{
+  "name": "blog",
+  "version": "2.0.0",
+  "description": "personal blog",
+  "repository": "git@github.com:ImnotLiAng/strong-fetch.git",
+  "author": "LiAng",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev .",
+    "start": "vuepress dev .",
+    "build": "vuepress build ."
+  },
+  "dependencies": {
+    "vuepress": "2.0.0-rc.0",
+    "vuepress-theme-reco": "2.0.0-rc.5"
+  }
+}
