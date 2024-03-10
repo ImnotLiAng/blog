@@ -1,3 +1,7 @@
 .theme-container .theme-reco-default-content h1 {
   display: block !important;
 }
+
+.page-meta {
+  display: none !important;
+}
